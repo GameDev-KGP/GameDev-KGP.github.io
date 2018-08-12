@@ -1,3 +1,3 @@
 <h1>READ ME</h1>
-the website is hosted at <a href="GameDev-KGP.github.io
-">
+the website is hosted at GameDev-KGP.github.io
+
